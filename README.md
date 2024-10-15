@@ -14,3 +14,6 @@ FA F1 9E 2A 1B 9F 29 21 6F 3D 6A AE EC 7C 26 61
 在/var/lib/bluetooth找到linux配置的蓝牙设置 打开其中info文件修改其linkkey 
 sudo systemctl restart bluetooth 重启蓝牙
 
+ps--------------------------------------
+https://zhuanlan.zhihu.com/p/693754050 clash使用
+
